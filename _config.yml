@@ -7,10 +7,13 @@ logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
+<<<<<<< HEAD
 
 launch_buttons:
   binderhub_url: "https://mybinder.org"  # The URL for your BinderHub (e.g., https://mybinder.org)
   
+=======
+>>>>>>> ddf62e5ff2c2fc69eb23f96141740eefb9f30e17
 execute:
   execute_notebooks: force
 
@@ -35,6 +38,9 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+<<<<<<< HEAD
   
 
 
+=======
+>>>>>>> ddf62e5ff2c2fc69eb23f96141740eefb9f30e17
